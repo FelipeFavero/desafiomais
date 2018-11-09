@@ -5,7 +5,10 @@ var files = [
     "/desafio/img/face.png",
     "/desafio/img/Git.png",
     "/desafio/img/linkedin.png",
-    "/desafio/img/perfil.png"
+    "/desafio/img/perfil.png",
+    "/desafio/service-worker.js",
+    "/desafio/css/bootsrap.min.css",
+    "/desafio/js/bootstrap.min.js"
   ];
   // dev only
   if (typeof files == 'undefined') {
